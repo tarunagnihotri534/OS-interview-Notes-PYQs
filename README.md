@@ -9,6 +9,14 @@
 
 ---
 
+## 👤 Author & Maintainer
+
+**Tarun Agnihotri** ([@tarunagnihotri534](https://github.com/tarunagnihotri534))
+* **GitHub**: [tarunagnihotri534](https://github.com/tarunagnihotri534)
+* **Repository**: [OS-interview-Notes-PYQs](https://github.com/tarunagnihotri534/OS-interview-Notes-PYQs)
+
+---
+
 ## 🏛️ High-Level Operating System Architecture
 
 ```
@@ -116,4 +124,4 @@ $$\text{EAT} = (H \times T_{\text{TLB}}) + ((1 - H) \times (T_{\text{TLB}} + 2 \
 Contributions, additional company questions, and corrections are welcome! Feel free to open a Pull Request or Issue.
 
 ---
-*Maintained with ❤️ for Systems Engineers & Software Developers worldwide.*
+*Created & Maintained with ❤️ by **Tarun Agnihotri** ([@tarunagnihotri534](https://github.com/tarunagnihotri534)) for Systems Engineers & Software Developers worldwide.*
