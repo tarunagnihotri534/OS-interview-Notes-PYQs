@@ -4,6 +4,7 @@
 [![FAANG Interview Ready](https://img.shields.io/badge/Level-Advanced%20FAANG%20Prep-orange.svg?style=for-the-badge)](https://github.com/tarunagnihotri534/OS-interview-Notes-PYQs)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tarunagnihotri534/OS-interview-Notes-PYQs/pulls)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge)](LICENSE)
+[![AI Agent Contributed](https://img.shields.io/badge/AI%20Agent-Contributor-7c3aed.svg?style=for-the-badge&logo=openai)](CONTRIBUTORS.md)
 
 > A comprehensive, battle-tested, interview-focused repository containing **Deep OS Notes**, **100+ Master Previous Year Questions (PYQs)**, **Solved Numerical Problems**, **Linux Kernel Internals**, and **Company-Wise Question Banks** for top tech companies (Google, Amazon, Microsoft, Meta, Apple, Uber, Qualcomm, Nvidia, Goldman Sachs, etc.).
 
@@ -119,9 +120,22 @@ $$\text{EAT} = (H \times T_{\text{TLB}}) + ((1 - H) \times (T_{\text{TLB}} + 2 \
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Contributors
 
 Contributions, additional company questions, and corrections are welcome! Feel free to open a Pull Request or Issue.
 
+### 🤖 AI & Agentic Contributors
+This repository recognizes AI Agents and Bots for content generation, technical edits, structure design, and automated maintenance.
+
+| Contributor | Category | Contribution Role |
+| :--- | :--- | :--- |
+| 🤖 **Antigravity AI Agent** | Autonomous Agent | OS Notes, Math Verification, ASCII Diagrams & PYQ Synthesis |
+| 🤖 **GitHub AI Agents** | Automated Agent | Code Analysis, Directory Structuring & Automated Maintenance |
+
+### 👥 Human Contributors
+* **Tarun Agnihotri** ([@tarunagnihotri534](https://github.com/tarunagnihotri534)) - *Author & Lead Maintainer*
+
+*(For full details and guidelines, visit [CONTRIBUTORS.md](CONTRIBUTORS.md))*
+
 ---
-*Created & Maintained with ❤️ by **Tarun Agnihotri** ([@tarunagnihotri534](https://github.com/tarunagnihotri534)) for Systems Engineers & Software Developers worldwide.*
+*Created & Maintained with ❤️ by **Tarun Agnihotri** ([@tarunagnihotri534](https://github.com/tarunagnihotri534)) & the **AI Agent Community** for Systems Engineers worldwide.*
